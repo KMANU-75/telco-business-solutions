@@ -145,7 +145,7 @@ pip install -r requirements.txt
 
 ## Author
 
-Data Science Capstone — Digital World Tech Academy (2026)
+HENRY NEWWELL KOFI ANKU — Digital World Tech Academy (2026)
 
 ---
 
